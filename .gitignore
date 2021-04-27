@@ -1,0 +1,4 @@
+dataset/*
+config.ini
+venv/*
+.idea/*
